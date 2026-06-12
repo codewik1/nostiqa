@@ -61,7 +61,7 @@ document.addEventListener("DOMContentLoaded", () => {
         clickable: true,
       },
       breakpoints: {
-        0: { slidesPerView: 2.2 },
+        0: { slidesPerView: 2.6 },
         576: { slidesPerView: 2.5 },
         768: { slidesPerView: 3 },
         1024: { slidesPerView: 3 },
